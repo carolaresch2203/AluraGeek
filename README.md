@@ -1,31 +1,28 @@
+# Proyecto de desafío frontend de AluraGeek
 
+Este es mi proyecto para el desafío Frontend propuesto por Oracle Next Education y Alura LATAM.
 
-# AluraGeek Frontend Challenge Project
+## Descripción del desafío
 
-This is my project for the Frontend challenge proposed by Oracle Next Education and Alura LATAM.
+El desafío consiste en crear una tienda en línea basada en el [archivo figma](https://www.figma.com/design/eSIemWMmHT750XP4D810yz/AluraGeek---new) proporcionado. Si bien se espera que sigamos el diseño del archivo FIGMA, también tenemos la libertad de personalizarlo a nuestro gusto.
 
-## Challenge Description
-
-The challenge involves creating an online store based on the [FIGMA file](https://www.figma.com/file/AB8pEp5K7lo7xUYjQwdfYA/AluraGeek-(Copy)?type=design&node-id=0%3A1&mode=design&t=PGhF0WdsaFdfVfJV-1) provided. While we are expected to follow the design in the FIGMA file, we also have the freedom to customize it to our liking.
-
-One of the key requirements is to implement CRUD (Create, Read, Update, Delete) operations using HTTP requests. This means we should be able to manage and manipulate products within our store, including reading, creating, deleting, and editing them.
+Uno de los requisitos clave es implementar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) mediante solicitudes HTTP. Esto significa que deberíamos poder administrar y manipular productos dentro de nuestra tienda, incluida su lectura, creación, eliminación y edición.
 
 
 
 
-## Technologies Used
+## Tecnologias Usadas
 
-The project is built using JavaScript and utilizes JSON Server to simulate the API for product management.
+El proyecto se construye usando JavaScript y utiliza JSON Server para simular la API para la gestión de productos.
 
 
-## Getting Started
+## Empezando
 
-Feel free to clone or modify this project for your own purposes. To get started:
 
-### 1. Clone this repository to your local machine.
+### 1. Clona este repositorio en tu máquina local.
 
    ```bash
-   git clone https://github.com/SofiDevO/alura-geek.git
+   git clone https://github.com/carolaresch2203/AluraGeek
    ```
 
 ### 2. Explore the project and make customizations as needed for your own projects.
